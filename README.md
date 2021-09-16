@@ -1,1 +1,3 @@
-# distribuidos_project
+# Taller_distribuidos
+MARIO ALEXANDER MORALES HERNANDEZ - 160003926
+JOHAN FERNANDO SANCHEZ - 160003945
