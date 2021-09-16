@@ -1,10 +1,10 @@
   
 From node:12.18.1
 
-WORKDIR /app
+WORKDIR ~/webservice
 
 RUN npm install express
 
-COPY app/app.js .
+COPY app.js .
 
 CMD [ "node", "app.js"]
